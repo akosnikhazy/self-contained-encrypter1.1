@@ -1,3 +1,5 @@
+Try it here: https://akosnikhazy.github.io/self-contained-encrypter1.1/
+
 This self-contained HTML and JavaScript app is created so anyone can write, encrypt and decrypt formatted text. Even without Internet access. With software they already have at hand. You could encrypt anything: a note, a message even a love letter if you think it is romantic to send an encrypted letter for a loved one (nope). The point is: all you need is this file. I made this because I wanted to learn encryption in JavaScript, needed a project for it, and I had this idea of self-contained files that open themselves with a password. From there I realized I can make a self-contained file that generates such encrypted documents.
 
 # Why?
